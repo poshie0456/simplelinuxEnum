@@ -1,0 +1,1 @@
+# simplelinuxEnum using bash, basic
